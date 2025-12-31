@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+.expo-shared/
+npm-debug.log*
+yarn.lock
+package-lock.json
+android/
+ios/
+web-build/
+.vscode/
+.DS_Store
+build/
+dist/
+.env

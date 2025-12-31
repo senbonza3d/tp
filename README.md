@@ -27,3 +27,11 @@ Remarques et hypothèses:
 Prochaine étape proposée:
 
 - Vérifier l'installation des dépendances (`@react-navigation/*`, `react-native-screens`, `react-native-safe-area-context`) et tester dans Expo Go.
+
+---
+
+Repository GitHub
+
+Ce projet a été poussé vers : https://github.com/senbonza3d/tp
+
+Si tu veux que j'active des actions GitHub (CI) ou que je rende le dépôt public/privé, dis-le-moi.
